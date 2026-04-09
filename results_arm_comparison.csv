@@ -1,0 +1,3 @@
+Algorithm,Time(s),Freq Items,Rules
+Apriori,0.024,177,670
+FP-Growth,1.757,177,670

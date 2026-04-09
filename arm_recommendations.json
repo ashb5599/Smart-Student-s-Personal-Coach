@@ -1,0 +1,180 @@
+[
+  {
+    "if_student_has": [
+      "Attendance=AvgAttend",
+      "Grade=GradeMed"
+    ],
+    "then_likely": [
+      "PassFail=Pass",
+      "StudyHours=HighStudy"
+    ],
+    "confidence": 0.48978950675463395,
+    "lift": 1.0568384294996298
+  },
+  {
+    "if_student_has": [
+      "StudyHours=HighStudy"
+    ],
+    "then_likely": [
+      "PassFail=Pass",
+      "Attendance=AvgAttend",
+      "Grade=GradeMed"
+    ],
+    "confidence": 0.5089781260202416,
+    "lift": 1.056493395732245
+  },
+  {
+    "if_student_has": [
+      "PrevScore=MedPrev",
+      "Grade=GradeMed"
+    ],
+    "then_likely": [
+      "Attendance=GoodAttend",
+      "PassFail=Pass"
+    ],
+    "confidence": 0.5077165354330709,
+    "lift": 1.0535437027657977
+  },
+  {
+    "if_student_has": [
+      "Attendance=GoodAttend"
+    ],
+    "then_likely": [
+      "PrevScore=MedPrev",
+      "PassFail=Pass",
+      "Grade=GradeMed"
+    ],
+    "confidence": 0.5062814070351759,
+    "lift": 1.0535437027657975
+  },
+  {
+    "if_student_has": [
+      "Attendance=AvgAttend",
+      "Grade=GradeMed"
+    ],
+    "then_likely": [
+      "PassFail=Pass",
+      "PrevScore=HighPrev"
+    ],
+    "confidence": 0.512095507382972,
+    "lift": 1.0514030507393712
+  },
+  {
+    "if_student_has": [
+      "Attendance=GoodAttend"
+    ],
+    "then_likely": [
+      "StudyHours=MedStudy",
+      "PassFail=Pass",
+      "Grade=GradeMed"
+    ],
+    "confidence": 0.4861809045226131,
+    "lift": 1.0459776086554557
+  },
+  {
+    "if_student_has": [
+      "StudyHours=MedStudy",
+      "Grade=GradeMed"
+    ],
+    "then_likely": [
+      "Attendance=GoodAttend",
+      "PassFail=Pass"
+    ],
+    "confidence": 0.5040703353956366,
+    "lift": 1.0459776086554557
+  },
+  {
+    "if_student_has": [
+      "PrevScore=HighPrev"
+    ],
+    "then_likely": [
+      "PassFail=Pass",
+      "Attendance=AvgAttend",
+      "Grade=GradeMed"
+    ],
+    "confidence": 0.5038639876352395,
+    "lift": 1.0458779033320853
+  },
+  {
+    "if_student_has": [
+      "StudyHours=HighStudy",
+      "Grade=GradeMed"
+    ],
+    "then_likely": [
+      "PassFail=Pass",
+      "Attendance=AvgAttend"
+    ],
+    "confidence": 0.5182845744680851,
+    "lift": 1.0439957876556822
+  },
+  {
+    "if_student_has": [
+      "PassFail=Pass",
+      "Attendance=AvgAttend"
+    ],
+    "then_likely": [
+      "StudyHours=HighStudy",
+      "Grade=GradeMed"
+    ],
+    "confidence": 0.47530487804878047,
+    "lift": 1.0439957876556822
+  },
+  {
+    "if_student_has": [
+      "Attendance=GoodAttend",
+      "Grade=GradeMed"
+    ],
+    "then_likely": [
+      "PrevScore=MedPrev",
+      "PassFail=Pass"
+    ],
+    "confidence": 0.5141945773524721,
+    "lift": 1.0424312895267822
+  },
+  {
+    "if_student_has": [
+      "PassFail=Pass",
+      "Attendance=AvgAttend"
+    ],
+    "then_likely": [
+      "PrevScore=HighPrev",
+      "Grade=GradeMed"
+    ],
+    "confidence": 0.4969512195121951,
+    "lift": 1.041674082270645
+  },
+  {
+    "if_student_has": [
+      "PrevScore=HighPrev",
+      "Grade=GradeMed"
+    ],
+    "then_likely": [
+      "PassFail=Pass",
+      "Attendance=AvgAttend"
+    ],
+    "confidence": 0.5171319796954315,
+    "lift": 1.041674082270645
+  },
+  {
+    "if_student_has": [
+      "Attendance=GoodAttend"
+    ],
+    "then_likely": [
+      "PrevScore=MedPrev",
+      "PassFail=Pass"
+    ],
+    "confidence": 0.512248743718593,
+    "lift": 1.0384864835068253
+  },
+  {
+    "if_student_has": [
+      "StudyHours=HighStudy"
+    ],
+    "then_likely": [
+      "PassFail=Pass",
+      "Attendance=AvgAttend"
+    ],
+    "confidence": 0.515181194906954,
+    "lift": 1.0377445593750747
+  }
+]
