@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ============================================================
 # README — HOW TO RUN YOUR COMPLETE ML PROJECT
 # AI-Based Student Performance & Smart Guidance System
