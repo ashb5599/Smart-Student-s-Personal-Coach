@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ============================================================
 # README — HOW TO RUN YOUR COMPLETE ML PROJECT
 # AI-Based Student Performance & Smart Guidance System
@@ -108,3 +109,7 @@ DATASETS USED
   PRIMARY  : Student Performance Factors (lainguyn123 — Kaggle)
   OPTIONAL : CS Students Subject Strength (mdhossanr — Kaggle)
              Student Management Dataset (ziya07 — Kaggle)
+=======
+# Smart-Student-s-Personal-Coach
+SSPC AI is a machine learning–powered student performance system that analyzes behavior, classifies learners, and provides personalized study plans to improve academic outcomes.
+>>>>>>> c1e1373ef4b27caec4a14364648e1a20b0de0ec9
